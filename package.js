@@ -1,5 +1,5 @@
 Package.describe({
-	name: 'alisalaah:jquery-contextmenu',
+	name: 'akson:jquery-contextmenu',
 	summary: 'JQuery ContextMenu by Rodney Rehm',
 	version: '1.6.6',
 	git: 'https://github.com/alisalaah/meteor-jquery-contextmenu.git'
